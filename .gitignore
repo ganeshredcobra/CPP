@@ -229,3 +229,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#To Prevent CodeBlocks layout file
+*.layout
