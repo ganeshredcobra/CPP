@@ -1,6 +1,8 @@
 ../CPP/
 |-- Bool
 |-- Chars
+|-- Control_Flow
+|   `-- halt
 |-- Float
 |-- Functions
 |   |-- Argv
@@ -36,6 +38,10 @@
 |   |   |-- String_1
 |   |   |-- String_2
 |   |   `-- Str_len
+|   |-- Struct
+|   |   |-- fun_ret_struct
+|   |   |-- Nested_struct
+|   |   `-- Struct_func
 |   |-- typecasting
 |   |   |-- cpp_style
 |   |   `-- c_style
@@ -43,4 +49,4 @@
 |   `-- typeid
 `-- sizeof
 
-43 directories
+49 directories
