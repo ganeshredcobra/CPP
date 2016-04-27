@@ -1,13 +1,49 @@
 ../CPP/
+|-- Array_Pointer
+|   |-- Array_length
+|   |-- Array_loop
+|   |-- array_variable
+|   |-- cstyle_string
+|   |-- Multidimen_Array
+|   |-- selection_sort
+|   |-- sizeof_array
+|   |-- std_Array
+|   |-- std_Array_Sort
+|   |-- std_Vector
+|   |   |-- resize_vector
+|   |   |-- vector_bools
+|   |   |-- vector_resize_small
+|   |   `-- vector_size
+|   `-- swap
 |-- Bool
 |-- Chars
 |-- Control_Flow
-|   `-- halt
+|   |-- break_continue
+|   |-- break_loop
+|   |-- break_return
+|   |-- chain_if
+|   |-- do_while
+|   |-- for_each
+|   |-- goto
+|   |-- halt
+|   |-- IF
+|   |-- Logical_If
+|   |-- Nested_while
+|   |-- Nested_while_rev
+|   |-- Nesting_If
+|   |-- PRNG
+|   |-- rand_srand
+|   |-- Switch
+|   |-- while
+|   `-- while_iterate
 |-- Float
 |-- Functions
 |   |-- Argv
 |   |-- Complex_call
 |   |-- func
+|   |-- multiple_val
+|   |-- Pass_by_ref
+|   |-- Pass_by_val
 |   `-- returnval
 |-- Hello
 |   `-- ConsoleApplication1
@@ -24,6 +60,24 @@
 |   |-- Side_effects
 |   |-- sizeof
 |   `-- std_hex
+|-- Pointers
+|   |-- Ambersand
+|   |-- Array_dereference
+|   |-- Array_passbyaddr
+|   |-- Array_pointers
+|   |-- Array_Pointer_size
+|   |-- Array_size
+|   |-- char_pointers
+|   |-- const_pointer
+|   |-- Dangling_Pointer
+|   |-- dereference
+|   |-- Dyanamicalloc_arrays
+|   |-- NullPointer
+|   |-- pointer_example
+|   |-- ptr2ptr
+|   |-- Ref_Var
+|   |-- Scaling_pointer
+|   `-- void_ptr
 |-- Scope
 |   |-- Enum
 |   |-- global_evil
@@ -49,4 +103,4 @@
 |   `-- typeid
 `-- sizeof
 
-49 directories
+103 directories
