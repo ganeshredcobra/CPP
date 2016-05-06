@@ -40,8 +40,16 @@
 |-- Functions
 |   |-- Argv
 |   |-- Complex_call
+|   |-- Fn_Call_Fn_ptr
 |   |-- func
+|   |-- Function_Overloading
+|   |-- Function_ptr
+|   |-- Inline_functions
 |   |-- multiple_val
+|   |-- pass_addr_by-val
+|   |-- Pass_by_addr
+|   |-- pass_by_addr_array
+|   |-- pass_by_addr_const
 |   |-- Pass_by_ref
 |   |-- Pass_by_val
 |   `-- returnval
@@ -103,4 +111,4 @@
 |   `-- typeid
 `-- sizeof
 
-103 directories
+111 directories
