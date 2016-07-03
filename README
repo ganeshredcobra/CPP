@@ -7,6 +7,8 @@
 |   |-- Multidimen_Array
 |   |-- selection_sort
 |   |-- sizeof_array
+|   |-- size_vs_capacity
+|   |-- stack_vector
 |   |-- std_Array
 |   |-- std_Array_Sort
 |   |-- std_Vector
@@ -14,9 +16,11 @@
 |   |   |-- vector_bools
 |   |   |-- vector_resize_small
 |   |   `-- vector_size
-|   `-- swap
+|   |-- swap
+|   `-- vector_size_capacity
 |-- Bool
 |-- Chars
+|-- Composition
 |-- Control_Flow
 |   |-- break_continue
 |   |-- break_loop
@@ -40,6 +44,7 @@
 |-- Functions
 |   |-- Argv
 |   |-- Complex_call
+|   |-- find
 |   |-- Fn_Call_Fn_ptr
 |   |-- func
 |   |-- Function_Overloading
@@ -52,9 +57,63 @@
 |   |-- pass_by_addr_const
 |   |-- Pass_by_ref
 |   |-- Pass_by_val
+|   |-- Recursion
 |   `-- returnval
 |-- Hello
 |   `-- ConsoleApplication1
+|-- Inheritance
+|   |-- Base_Derived
+|   |-- Basic_inheritance
+|   |-- Inheritance_Chains
+|   `-- Intializing_Base_in_Derived
+|-- OOPS
+|   |-- Ball_member_intializer
+|   |-- Ball_Non_Static_Mem_Intilizer
+|   |-- class
+|   |-- class_2
+|   |-- Class_Header
+|   |-- Const_member_Function
+|   |-- Constructor_direct_intialization
+|   |-- Default_Constructor
+|   |-- delegating_constructor
+|   |-- Destructor
+|   |-- Destructor_timing
+|   |-- direct_intialization
+|   |-- Encapsulation
+|   |-- Encapsulation_Acces_Fn
+|   |-- Friend_Class
+|   |-- Friend_Function
+|   |-- mixing_access_specifiers
+|   |-- Multiple_Friends
+|   |-- Non_Oops
+|   |-- Non-Static_mem_initialization
+|   |-- private_members
+|   |-- public_access_specifier
+|   |-- Static_member_Fn
+|   |-- Static_Member_var_Ex
+|   |-- Static_member_Variables
+|   |-- Static_Scope
+|   `-- this_ptr
+|-- Operator_Overloading
+|   |-- Copy_Constructor
+|   |-- Copy_constructor_Eg
+|   |-- Copy_Intialization
+|   |-- delete
+|   |-- Explicit
+|   |-- Fraction_Class
+|   |-- Overloading_comparison_equal
+|   |-- Overloading_comparison_greaterthan
+|   |-- Overloading_Ex
+|   |-- Overloading_incrment_decrement
+|   |-- Overloading_incrmnt_dcrmnt_post
+|   |-- Overloading_IO_Input
+|   |-- Overloading_IO_member_Fn
+|   |-- Overloading_IO_Output
+|   |-- Overloading_Member_Fn
+|   |-- Overloading_Unary_Eg
+|   |-- Overloading_Unary_operator
+|   |-- Overload_plus_Operator
+|   `-- Reversing_Plus_Minus
 |-- Operators
 |   |-- associativity
 |   |-- BitMask
@@ -111,4 +170,4 @@
 |   `-- typeid
 `-- sizeof
 
-111 directories
+170 directories
