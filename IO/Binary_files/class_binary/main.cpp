@@ -19,7 +19,7 @@ public:
     int Crop_Width;
 };
 
-void WriteTAPData(ofstream& of)
+void WritePData(ofstream& of)
 {
     // Write to File
     ofstream fout(filename.c_str(), ios::out | ios::binary);
@@ -35,7 +35,7 @@ void WriteTAPData(ofstream& of)
     }
 }
 
-void ReadTAPData(ifstream& inf, P_Data Read)
+void ReadPData(ifstream& inf, P_Data Read)
 {
     // Read from file
     ifstream fin(filename.c_str(), ios::in | ios::binary);
